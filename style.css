@@ -1,0 +1,33 @@
+body {
+	background-color: #EFF3F4;
+	font-family: "Helvetica Neue",Helvetica,Arial, sans-serif;
+}
+
+header {padding: 20px 20px 6px 20px}
+
+h1 {color:#444;}
+
+h2 {color:#888;}
+
+.h2_details{color: #CCC;
+			font-size: 0.6em;}
+
+#card {
+	width: 480px;
+	background-color: #FFF;
+	margin :80px auto;
+	-moz-box-shadow:0px 0px 8px;
+	-webkit-box-shadow:0px 0px 8px;
+	box-shadow: 0px 0px 8px #C0C0C0;
+}
+
+#contact{clear:right;
+		background-color: #EAECEF;
+		padding: 10px 20px 6px 20px;
+		color: #60656A;}
+
+img {float: right;}	
+
+#tel{float: right;}	
+
+a {color: #4AC;}
